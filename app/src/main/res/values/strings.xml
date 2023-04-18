@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="myText">WhatsApp will send an SMS message to verify your phone Number</string>
+    <string name="otpText">Enter the OTP code to verify your Phone Number</string>
+    <string name="ProfileText">Please set your name and an optional profile image</string>
+</resources>
